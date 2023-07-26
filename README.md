@@ -4,8 +4,8 @@ Es una ejercitación de consumo de API de Videojuegos para crear Bress App.
 Una plataforma web donde poder buscar videojuegos 🎮🕹️👾 (y el detalle de ellos) ya sea filtrando por género o buscándolo por nombre.
 
 ## 💟 Preview
-   <img src="pagina a.png" alt="">
-   <img src="" alt="">
+   <img src="pagina 1.png" width="500" alt="">
+   <img src="pagina 2.png" width="500" alt="">
 
 ## 💻 Tecnologías Utilizadas 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
