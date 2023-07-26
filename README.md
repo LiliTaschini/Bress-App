@@ -9,7 +9,9 @@ Una plataforma web donde poder buscar videojuegos 🎮🕹️👾 (y el detalle 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!-- Instalación. Averiguar sobre Hosting y brindar URL para acceder -->
+## 🌼 URL 
+Para interactuar con la plataforma web por favor acceder a: https://lilitaschini.github.io/Bress-App/
+
 ## 🛠 Cómo usar
 Cuando se ingresa a la página se pueden visualizar los juegos, tiene la funcionalidad de reconocer cuando el usuario se encuentra al final de la página, para cargar más juegos (cómo si fuera una paginación infinita)
 En cada ficha o card se puede ver más información del juego como una descripción, género, plataformas, y plataformas de distribución digital de videojuegos en donde estan disponibles para comprar. 
