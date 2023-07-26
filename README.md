@@ -3,14 +3,18 @@ Es una ejercitación de consumo de API de Videojuegos para crear Bress App.
 
 Una plataforma web donde poder buscar videojuegos 🎮🕹️👾 (y el detalle de ellos) ya sea filtrando por género o buscándolo por nombre.
 
-<!-- DEMO O CAPTURAS DE PANTALLA -->
+## 💟 Preview
+   <img src="pagina a.png" alt="">
+   <img src="" alt="">
+
 ## 💻 Tecnologías Utilizadas 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## 🌼 URL 
-Para interactuar con la plataforma web por favor acceder a: https://lilitaschini.github.io/Bress-App/
+
+Para interactuar con la plataforma web por favor acceder a: <a href="https://lilitaschini.github.io/Bress-App/" target="_blank">Bress-App</a>
 
 ## 🛠 Cómo usar
 Cuando se ingresa a la página se pueden visualizar los juegos, tiene la funcionalidad de reconocer cuando el usuario se encuentra al final de la página, para cargar más juegos (cómo si fuera una paginación infinita)
