@@ -1,5 +1,5 @@
 ## ⚡ Bress-App 
-Es una ejercitación de consumo de API de Videojuegos usando la API de https://rawg.io/apidocs para crear Bress App. 
+Es una ejercitación de consumo de API de Videojuegos para crear Bress App. 
 Una plataforma web donde poder buscar videojuegos 🎮🕹️👾 (y el detalle de ellos) ya sea filtrando por género o buscándolo por nombre.
 
 <!-- DEMO O CAPTURAS DE PANTALLA -->
