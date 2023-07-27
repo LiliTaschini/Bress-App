@@ -5,8 +5,8 @@
 
 ## 💟 Preview
   <div style="display: flex; justify-content: center; margin: 30">
-   <img src="pagina 1.png" width="500" alt="" >
-   <img src="pagina 2.png" width="500" alt="" >
+   <img src="pagina 1.png" width="400" alt="" >
+   <img src="pagina 2.png" width="400" alt="" >
   </div>
 
 ## 💻 Tecnologías Utilizadas 
